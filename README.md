@@ -1,0 +1,1 @@
+Recommendation System for music in which Cosine similarity is used to find the most similar songs from the GTZAN Database. Also a comparison of various difference machine learning models for classification of music genres.
